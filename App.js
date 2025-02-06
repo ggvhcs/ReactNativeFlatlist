@@ -2,7 +2,7 @@
 import { StyleSheet } from "react-native";
 import React, { Component } from "react";
 
-import ListFlatList from "./app/components/ListFlatList";
+import ListFlatList from "./components/ListFlatList";
 
 export default class App extends Component {
   render() {
